@@ -44,17 +44,17 @@ header {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color:red;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color:green;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: grey;
   color: white;
 }
 
@@ -71,7 +71,3 @@ header {
   transition: all 0.3s ease-in-out;
 }
 
-.currentTime{
-  background-color: #4caf50;
-  color: white;
-}
